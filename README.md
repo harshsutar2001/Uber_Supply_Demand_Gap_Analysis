@@ -24,6 +24,7 @@ Suggest strategies to minimize the demand gap.
 🧰 Tools & Technologies Used
 
 Excel – Initial data cleaning, time categorization, and pivot analysis
+![Dashboard](https://github.com/harshsutar2001/Uber_Supply_Demand_Gap_Analysis/blob/main/F-Excel-DashBoard.Image.png?raw=true)
 SQL – Querying data for time-wise trends and percentage calculations
 Python (Pandas, NumPy, Matplotlib, Seaborn) – Exploratory Data Analysis (EDA) and visualization
 
